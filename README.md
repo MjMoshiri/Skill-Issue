@@ -1,3 +1,3 @@
 # MLGA — Make Laptop Great Again
 
-My personal collection of Claude Code skills, agents, and prompts.
+Personal collection of agentic prompts and global policies that apply to my agentic work.
