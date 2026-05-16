@@ -1,6 +1,6 @@
 # MLGA — Make Laptop Great Again
 
-Personal collection of Claude Code agents, prompts, and global policies. Tuned for Claude Opus 4.7.
+Personal collection of agentic prompts and global policies that apply to my agentic work.
 
 ## Layout
 

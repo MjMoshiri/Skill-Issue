@@ -11,7 +11,7 @@ Do not mix instructions, examples, and context in flowing prose — the model wi
 </structure>
 
 <clarity>
-Write as if briefing a new hire with zero context. If a colleague would be confused, the model will be too.
+Brief the model as if it has zero prior context on this product, team, or norms. If the prompt depends on knowledge it does not have, the model will fill the gap with a guess.
 
 State scope explicitly. *"Apply this tone to every response, not just the first turn."*
 
@@ -71,12 +71,5 @@ Enable adaptive thinking (`thinking: {type: "adaptive"}`) when reasoning spans m
 
 Do not default to `high` effort — support agents need fast turnaround; `low` plus a clear prompt usually wins.
 </effort_and_thinking>
-
-<iteration_checklist>
-1. Show the prompt to a teammate with no context — can they follow it?
-2. Test against 10 real tickets, including the weird ones.
-3. When the model fails, fix the prompt. Do not hack around the output.
-4. When the model surprises you in a good way, capture that example and add it to your few-shot set.
-</iteration_checklist>
 
 </guide>

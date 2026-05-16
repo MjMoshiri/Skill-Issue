@@ -17,7 +17,7 @@ Treat Opus 4.7 like a brilliant, literal-minded new hire with deep domain knowle
 - Overspecified prohibitions and aggressive phrasing cause overtriggering and defensive padding.
 - Unstated scope gets interpreted narrowly — instructions do not silently generalize.
 
-**Litmus test:** hand the prompt to a colleague with no context. If they would hesitate, guess, or ask a clarifying question, the prompt is under-specified.
+**Self-check:** if a fresh session reading only this prompt would have to guess at intent, scope, format, or success criteria, the prompt is under-specified.
 </mental_model>
 
 <section name="be_specific_and_direct">
