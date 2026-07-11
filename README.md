@@ -4,19 +4,19 @@ Personal agents, skills, prompts — and the laptop setup that makes them useful
 
 ## Laptop prerequisites
 
-What I want on a Mac. Names only (plus a few preferences); agents can figure out installs.
+What I want on a Mac. Names + a few prefs (p10k shape, RTK proxy — no skill). Agents handle installs.
 
-See [`laptop/prereq.md`](laptop/prereq.md).
+Details: [`laptop/prereq.md`](laptop/prereq.md)
 
 - Homebrew (mac)
-- Ghostty (zsh + Nerd Font)
-- Powerlevel10k
+- Ghostty (zsh, MesloLGS NF)
+- Powerlevel10k (Rainbow; transient always; instant quiet)
 - Raycast
 - Rectangle
 - Grok CLI
-- Claude CLI (RTK hook, no RTK skill)
+- Claude CLI (RTK Bash hook, no RTK skill)
 - ctx7
-- RTK (proxy by default, no skill)
+- RTK (proxy by default: agent hook + zsh rewrite, no skill)
 
 ## Repo layout
 
